@@ -1,7 +1,7 @@
 {
   "name": "saucedemo-automation",
   "version": "1.0.0",
-  "description": "this a simple auomation demo witj webdriver.io",
+  "description": "this a sample auomation demo with webdriver.io",
   "main": "index.js",
   "scripts": {
     "test": "npx wdio wdio.conf.js",
@@ -15,7 +15,8 @@
     "@wdio/sync": "^7.27.0",
     "chai": "^4.3.10",
     "mocha": "^10.2.0",
-    "webdriverio": "^7.32.4"
+    "webdriverio": "^7.32.4",
+    "winston": "^3.10.0"
   },
   "devDependencies": {
     "@wdio/local-runner": "^8.16.18",

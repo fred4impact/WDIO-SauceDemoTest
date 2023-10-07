@@ -7,8 +7,8 @@
         {
             "username": "user2",
             "password": "password2"
-        },
-        // Add more user data as needed
+        }
+
     ],
     "products": [
         {
@@ -18,7 +18,7 @@
         {
             "productName": "Product B",
             "price": "$15.00"
-        },
+        }
         // Add more product data as needed
     ]
     // Add other data as required
